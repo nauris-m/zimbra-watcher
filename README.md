@@ -1,1 +1,1 @@
-"zimbra-watcher" 
+"zimbra-watcher" is a simple watcher for zimbra mail api.
